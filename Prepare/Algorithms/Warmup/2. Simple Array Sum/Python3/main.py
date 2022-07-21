@@ -1,3 +1,3 @@
-_length = input()
+_ = input()
 lst = [int(x) for x in input().split(' ')]
 print(sum(lst))

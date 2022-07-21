@@ -1,17 +1,19 @@
 #include <stdio.h>
+#include <stdint.h>
 
 int main() {
-    int length;
+    int16_t length;
     scanf("%d", &length);
 
-    long inputs[length];
-    long sum = 0;
+    int32_t inputs[length];
+    int32_t sum = 0;
     
-    for (long i = 0; i < length; i++) {
+    for (int32_t i = 0; i < length; i++) {
        scanf("%ld", &inputs[i]);
        sum += inputs[i];
     }
     
     printf("%ld\n", sum);
+    
     return 0;
 }
