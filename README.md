@@ -18,4 +18,7 @@ For me, this is a quick reference for idiomatic solutions to common problems in 
     8. [Mini-Max Sum](Prepare/Algorithms/Warmup/8-Mini-Max-Sum)
     9. [Birthday Cake Candles](Prepare/Algorithms/Warmup/9-Birthday-Cake-Candles)
     10. [Time Conversion](Prepare/Algorithms/Warmup/10-Time-Conversion)
+  - [Implementation](Prepare/Algorithms/Implementation)
+    1. [Grading Students](Prepare/Algorithms/Implementation/1-Grading-Students)
+    2. [Apple and Orange](Prepare/Algorithms/Implementation/2-Apple-and-Orange)
   - [Graph Theory](Prepare/Algorithms/Graph-Theory)
